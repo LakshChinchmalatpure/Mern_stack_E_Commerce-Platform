@@ -50,8 +50,6 @@ Here is a visual breakdown of the premium shopfront's major interfaces, as captu
 
 ---
 
-## 🎨 Immersive Design Style
-
 ## ✨ Features & Architecture
 
 ### 🛍️ Client & Customer Experience
