@@ -15,7 +15,8 @@ You can experience the live interactive preview, use the AI Curation models, and
 ## 🎨 Immersive Virtual Shopfront
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1200&q=80" alt="Curated Boutique Workspace Concept" width="100%" style="border-radius: 12px; margin-bottom: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);" />
+  <img src="<img width="1877" height="844" alt="Screenshot 2026-06-26 091536" src="https://github.com/user-attachments/assets/4a4eba68-0c5f-4219-af6c-f4baaa06e47c" />
+" />
   
   *Designing the ultimate digital workspace with hand-picked physical artifacts.*
 </div>
